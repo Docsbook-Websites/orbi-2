@@ -1,6 +1,6 @@
 ---
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 <!-- widget:hero size=large -->
@@ -25,6 +25,16 @@ Orbi is a self-hosted, fair-code AI coding agent. It claims a GitHub Issue, impl
 - [How it works](/concepts) — The Issue → PR → review → merge → release chain. {git-branch}
 - [Security](/security) — What stays on your machine, and where human approval still applies. {shield}
 - [FAQ](/faq) — What Orbi needs, and how it differs from an editor. {help-circle}
+
+<!-- /widget -->
+
+<!-- widget:cards cols=3 -->
+
+## Shipped in the open
+
+- [Orbi's own repository](https://github.com/orbi-build/orbi) — Orbi builds Orbi: every PR against its own codebase is a public record. {git-pull-request}
+- [mat-site favicon swap](https://github.com/SHUKE-LABS/mat-site) — A pull request Orbi opened and merged in a repository it does not own, no human review. {git-pull-request}
+- [Tianshu-harness perf fix](https://github.com/zzuu080603/Tianshu-harness) — Another third-party repository where an Orbi-opened PR merged unassisted. {git-pull-request}
 
 <!-- /widget -->
 
